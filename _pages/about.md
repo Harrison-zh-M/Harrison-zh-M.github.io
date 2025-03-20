@@ -11,4 +11,3 @@ I'm a third year undergraduate student from [School of EECS](https://www.uestc.e
 
 I am very fortunate to be advised by [Prof. Junming Shao](https://dm.uestc.edu.cn/) of Data Mining Lab from [School of Computer Science](https://www.uestc.edu.cn/), UESTC. At the same time, I am also very fortunate to be advised by [Prof.yang you](https://www.comp.nus.edu.sg/~youy/), National University of Singapore.
 
-[Email](zhmei2019@gmail.com) / [Github](https://github.com/Harrison-zh-M)
